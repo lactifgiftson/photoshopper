@@ -1,0 +1,19 @@
+{
+  "name": "photoshopper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lactifgiftson/photoshopper.git"
+  },
+  "author": "Lactif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lactifgiftson/photoshopper/issues"
+  },
+  "homepage": "https://github.com/lactifgiftson/photoshopper#readme"
+}
