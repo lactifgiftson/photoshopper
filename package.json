@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lactifgiftson/photoshopper/issues"
   },
-  "homepage": "https://github.com/lactifgiftson/photoshopper#readme"
+  "homepage": "https://github.com/lactifgiftson/photoshopper#readme",
+  "dependencies": {
+    "psd": "^3.2.0"
+  }
 }
